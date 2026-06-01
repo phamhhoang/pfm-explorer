@@ -119,12 +119,12 @@ def divider():
     st.markdown("<hr style='border:none;border-top:1px solid rgba(255,255,255,0.1);margin:16px 0'>",
                 unsafe_allow_html=True)
 
-def seg_card(name, size, growth, targets, priority):
+def seg_card(name, size, growth, priority):
     color = PRIORITY_COLORS.get(priority, "#8899AA")
     st.markdown(
         f'<div class="seg-card">'
         f'<div class="seg-name">{name} &nbsp;{badge(priority, color)}</div>'
-        f'<div class="seg-stats">💰 €{size}B &nbsp;·&nbsp; 📈 {growth}%/yr &nbsp;·&nbsp; 🏢 ~{targets:,} targets</div>'
+        f'<div class="seg-stats">💰 €{size}B &nbsp;·&nbsp; 📈 {growth}%/yr</div>'
         f'</div>',
         unsafe_allow_html=True
     )
@@ -200,7 +200,6 @@ if view == "🏠 Home":
             a["name"],
             a.get("market_size_bn_eur", "?"),
             a.get("growth_pct", "?"),
-            a.get("target_count_estimate", 0),
             a.get("pfm_priority", "—")
         )
 
@@ -223,7 +222,6 @@ elif view == "🏭 Segment":
     # 2×2 metrics
     size   = app.get("market_size_bn_eur")
     growth = app.get("growth_pct")
-    targets = app.get("target_count_estimate")
     invest  = app.get("avg_investment_keur")
 
     c1, c2 = st.columns(2)
@@ -232,8 +230,7 @@ elif view == "🏭 Segment":
     c2.metric("Growth/yr", f"{growth}%" if growth else "—",
               help="Estimated — public industry reports. Not verified.")
     c3, c4 = st.columns(2)
-    c3.metric("Est. Targets", f"~{targets:,}" if targets else "—",
-              help="Approximation. Verify with Matchplat/Apollo/ZoomInfo.")
+    c3.metric("Target Companies", "—", help="Run a Matchplat or Apollo.io search to get real counts.")
     c4.metric("Avg. Investment", f"~€{invest}K" if invest else "—",
               help="Rough estimate for learning only.")
 
@@ -384,16 +381,14 @@ elif view == "📦 Pack Style":
         st.markdown(f"[🔗 View on pfm.it]({all_ps[selected_ps]})")
 
     segments_with_ps = [a for a in apps if any(ps["name"] == selected_ps for ps in a["pack_styles"])]
-    total_market  = sum(a.get("market_size_bn_eur", 0) for a in segments_with_ps)
-    total_targets = sum(a.get("target_count_estimate", 0) for a in segments_with_ps)
+    total_market = sum(a.get("market_size_bn_eur", 0) for a in segments_with_ps)
 
     c1, c2 = st.columns(2)
     c1.metric("Segments", len(segments_with_ps))
     c2.metric("Combined Market", f"€{total_market:,.0f}B",
               help="Estimated — Statista/Euromonitor. Not verified.")
     c3, c4 = st.columns(2)
-    c3.metric("Est. Targets", f"~{total_targets:,}",
-              help="Approximation only. Verify with Matchplat/ZoomInfo.")
+    c3.metric("Target Companies", "—", help="Run a Matchplat or Apollo.io search to get real counts.")
     c4.markdown("")
 
     divider()
@@ -404,7 +399,6 @@ elif view == "📦 Pack Style":
             a["name"],
             a.get("market_size_bn_eur", "?"),
             a.get("growth_pct", "?"),
-            a.get("target_count_estimate", 0),
             a.get("pfm_priority", "—")
         )
 
