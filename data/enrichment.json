@@ -1,0 +1,230 @@
+{
+  "segments": {
+    "Snacks": {
+      "market_size_bn_eur": 180,
+      "growth_pct": 5.2,
+      "pfm_priority": "High",
+      "why_pfm": "High-speed VFFS + multihead weighers needed for granular/irregular products at scale",
+      "example_clients": ["Lay's (PepsiCo)", "Pringles (Kellogg's)", "Lorenz Snack-World", "Intersnack", "Zweifel"],
+      "typical_machines": ["VFFS", "Multihead Weigher"],
+      "avg_investment_keur": 250,
+      "target_count_estimate": 3500
+    },
+    "Bakery": {
+      "market_size_bn_eur": 220,
+      "growth_pct": 3.1,
+      "pfm_priority": "High",
+      "why_pfm": "Wide variety of formats (pillow, flow-wrap, gusseted) needed for bread, biscuits, pastry lines",
+      "example_clients": ["Barilla", "Bahlsen", "McVitie's", "Griesson-de Beukelaer", "Lotus Bakeries"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 180,
+      "target_count_estimate": 8000
+    },
+    "Chocolate & Confectionery": {
+      "market_size_bn_eur": 130,
+      "growth_pct": 4.0,
+      "pfm_priority": "High",
+      "why_pfm": "Gentle handling + hermetic sealing critical for fragile/temperature-sensitive products",
+      "example_clients": ["Ferrero", "Lindt", "Nestlé Confectionery", "Haribo", "Perfetti Van Melle"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 200,
+      "target_count_estimate": 4000
+    },
+    "Coffee": {
+      "market_size_bn_eur": 90,
+      "growth_pct": 6.5,
+      "pfm_priority": "High",
+      "why_pfm": "Aroma-barrier packaging + MAP (Modified Atmosphere Packaging) essential; block bottom bags dominant",
+      "example_clients": ["Lavazza", "illycaffè", "Tchibo", "Segafredo", "Massimo Zanetti"],
+      "typical_machines": ["VFFS", "Stand-up Pouch"],
+      "avg_investment_keur": 300,
+      "target_count_estimate": 2500
+    },
+    "Dairy": {
+      "market_size_bn_eur": 150,
+      "growth_pct": 2.8,
+      "pfm_priority": "High",
+      "why_pfm": "Hygienic design (AISI 304 stainless) + MAP required for cheese, butter, yoghurt packaging",
+      "example_clients": ["Lactalis", "Arla Foods", "FrieslandCampina", "Granarolo", "Müller"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 220,
+      "target_count_estimate": 5000
+    },
+    "Pet Food": {
+      "market_size_bn_eur": 55,
+      "growth_pct": 7.1,
+      "pfm_priority": "High",
+      "why_pfm": "Fastest-growing food segment; stand-up pouches with zip-lock dominate premium pet food",
+      "example_clients": ["Mars Petcare", "Nestlé Purina", "Hill's Pet Nutrition", "Zooplus", "Schesir"],
+      "typical_machines": ["VFFS", "Stand-up Pouch", "Multihead Weigher"],
+      "avg_investment_keur": 270,
+      "target_count_estimate": 1800
+    },
+    "Pasta": {
+      "market_size_bn_eur": 18,
+      "growth_pct": 2.5,
+      "pfm_priority": "Medium",
+      "why_pfm": "Pillow bags and gusseted bags dominate; high-speed VFFS for 250g–1kg formats",
+      "example_clients": ["Barilla", "De Cecco", "Garofalo", "Voiello", "Rummo"],
+      "typical_machines": ["VFFS", "Multihead Weigher"],
+      "avg_investment_keur": 150,
+      "target_count_estimate": 1200
+    },
+    "Frozen Foods": {
+      "market_size_bn_eur": 72,
+      "growth_pct": 4.8,
+      "pfm_priority": "Medium",
+      "why_pfm": "Cold-environment rated machines; reclosable and gusseted bags for vegetables, meals",
+      "example_clients": ["Findus", "Iglo", "McCain", "Birds Eye", "Bonduelle"],
+      "typical_machines": ["VFFS", "Multihead Weigher"],
+      "avg_investment_keur": 200,
+      "target_count_estimate": 2200
+    },
+    "Meat & Sausages": {
+      "market_size_bn_eur": 95,
+      "growth_pct": 1.8,
+      "pfm_priority": "Medium",
+      "why_pfm": "MAP + hermetic sealing critical for shelf life; flow-wrap dominates for sliced meat",
+      "example_clients": ["Tönnies", "Danish Crown", "Campofrio", "Negroni", "Beretta"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 190,
+      "target_count_estimate": 4500
+    },
+    "Fish": {
+      "market_size_bn_eur": 42,
+      "growth_pct": 3.9,
+      "pfm_priority": "Medium",
+      "why_pfm": "MAP and hygienic design essential; growing demand for premium sustainable packaging",
+      "example_clients": ["Thai Union", "Nomad Foods", "Cermaq", "Lerøy", "Triangel"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 180,
+      "target_count_estimate": 2000
+    },
+    "Fruit & Vegetables": {
+      "market_size_bn_eur": 38,
+      "growth_pct": 5.5,
+      "pfm_priority": "Medium",
+      "why_pfm": "Gentle handling + breathable film support; multihead weighers for irregular shapes",
+      "example_clients": ["Dole", "Chiquita", "Del Monte", "Bonduelle", "Greenyard"],
+      "typical_machines": ["VFFS", "Multihead Weigher"],
+      "avg_investment_keur": 160,
+      "target_count_estimate": 3000
+    },
+    "Beverages": {
+      "market_size_bn_eur": 28,
+      "growth_pct": 4.2,
+      "pfm_priority": "Medium",
+      "why_pfm": "Powder and granulate beverages (instant coffee, tea, sports nutrition) in VFFS stick packs",
+      "example_clients": ["Nestlé", "Jacobs Douwe Egberts", "GEA Group", "Herbalife", "Dalgety"],
+      "typical_machines": ["VFFS"],
+      "avg_investment_keur": 170,
+      "target_count_estimate": 1500
+    },
+    "Sweets": {
+      "market_size_bn_eur": 25,
+      "growth_pct": 3.5,
+      "pfm_priority": "Medium",
+      "why_pfm": "Twist-wrap and flow-wrap for candies; gentle handling for gummies and jellies",
+      "example_clients": ["Haribo", "Storck", "Perfetti Van Melle", "Katjes", "Ricola"],
+      "typical_machines": ["Flow Wrap", "VFFS"],
+      "avg_investment_keur": 190,
+      "target_count_estimate": 2800
+    },
+    "Cut Bread": {
+      "market_size_bn_eur": 20,
+      "growth_pct": 1.5,
+      "pfm_priority": "Medium",
+      "why_pfm": "Bakery-specific flow-wrap lines (Brevetti Gasparin brand); in-store packaging automation",
+      "example_clients": ["Bimbo Group", "Harry-Brot", "Mestemacher", "Lieken", "Golden Toast"],
+      "typical_machines": ["Flow Wrap"],
+      "avg_investment_keur": 140,
+      "target_count_estimate": 1800
+    },
+    "Pharma": {
+      "market_size_bn_eur": 65,
+      "growth_pct": 5.8,
+      "pfm_priority": "Medium",
+      "why_pfm": "FDA-approved materials, cleanroom-compatible, precise dosing for sachets and unit doses",
+      "example_clients": ["Bayer Consumer Health", "GSK", "Sanofi", "Reckitt", "Zambon"],
+      "typical_machines": ["VFFS", "Flow Wrap"],
+      "avg_investment_keur": 350,
+      "target_count_estimate": 1200
+    },
+    "Powders": {
+      "market_size_bn_eur": 32,
+      "growth_pct": 4.0,
+      "pfm_priority": "Medium",
+      "why_pfm": "Dust-tight sealing + auger dosing systems; VFFS dominant for 100g–5kg formats",
+      "example_clients": ["Nestlé (infant formula)", "Danone (Nutricia)", "Abbott Nutrition", "SMA Nutrition", "Holle"],
+      "typical_machines": ["VFFS"],
+      "avg_investment_keur": 280,
+      "target_count_estimate": 900
+    },
+    "Detergents": {
+      "market_size_bn_eur": 48,
+      "growth_pct": 2.9,
+      "pfm_priority": "Low",
+      "why_pfm": "Non-food segment; VFFS for powder detergents, flow-wrap for tabs/pods",
+      "example_clients": ["Procter & Gamble", "Unilever", "Henkel", "Reckitt", "Ecover"],
+      "typical_machines": ["VFFS", "Flow Wrap"],
+      "avg_investment_keur": 200,
+      "target_count_estimate": 600
+    },
+    "Fine Granulates": {
+      "market_size_bn_eur": 15,
+      "growth_pct": 3.3,
+      "pfm_priority": "Low",
+      "why_pfm": "High precision dosing for salt, sugar, seeds; multihead weighers for small-format bags",
+      "example_clients": ["Salines de Guérande", "Maldon Salt", "Südzucker", "Tereos", "Bonduelle Seeds"],
+      "typical_machines": ["VFFS", "Multihead Weigher"],
+      "avg_investment_keur": 140,
+      "target_count_estimate": 800
+    },
+    "Wet Wipes": {
+      "market_size_bn_eur": 12,
+      "growth_pct": 6.8,
+      "pfm_priority": "Low",
+      "why_pfm": "Niche but growing non-food segment; horizontal flow-wrap for single-sachet and multi-pack",
+      "example_clients": ["Kimberly-Clark", "Procter & Gamble", "Edgewell", "Nice-Pak", "Moltex"],
+      "typical_machines": ["Flow Wrap"],
+      "avg_investment_keur": 160,
+      "target_count_estimate": 400
+    }
+  },
+  "machines": {
+    "azimuth-evo": {"speed_bags_min": 120, "format_range_mm": "100–600", "key_feature": "Full servo, 5 bag styles in one machine"},
+    "azimuth-evo-inclined-version": {"speed_bags_min": 100, "format_range_mm": "100–600", "key_feature": "Inclined film path for delicate/fragile products"},
+    "comet": {"speed_bags_min": 180, "format_range_mm": "80–500", "key_feature": "Continuous motion — highest speed in VFFS range"},
+    "solaris-evo": {"speed_bags_min": 160, "format_range_mm": "100–550", "key_feature": "Multiple bag styles + MAP-ready"},
+    "zenith": {"speed_bags_min": 140, "format_range_mm": "100–500", "key_feature": "Integrated dosing + wrapping in one unit"},
+    "r-700": {"speed_bags_min": 100, "format_range_mm": "100–700", "key_feature": "Wide format range, pillow + block bottom"},
+    "r-700-twin": {"speed_bags_min": 180, "format_range_mm": "100–700", "key_feature": "Dual-lane output doubles throughput"},
+    "rc-700": {"speed_bags_min": 110, "format_range_mm": "100–700", "key_feature": "Pillow + square bottom + Steelo in one"},
+    "rq-700": {"speed_bags_min": 80, "format_range_mm": "100–700", "key_feature": "Intermittent motion, removable sealing unit"},
+    "rx800": {"speed_bags_min": 70, "format_range_mm": "100–800", "key_feature": "Entry-level — simple, low cost, easy to train"},
+    "polar": {"speed_bags_min": 90, "format_range_mm": "100–600", "key_feature": "Cold-environment rated for frozen products"},
+    "vetta": {"speed_bags_min": 85, "format_range_mm": "100–500", "key_feature": "Fresh fish/seafood specialist — hygienic design"},
+    "compact": {"speed_bags_min": 60, "format_range_mm": "150–400", "key_feature": "Horizontal VFFS for triple-seal and gusseted packs"},
+    "pv320-high-speed": {"speed_bags_min": 320, "format_range_mm": "50–200", "key_feature": "Ultra high-speed stick pack machine"},
+    "mbp-c1-series": {"speed_bags_min": null, "weighing_heads": 14, "key_feature": "Entry-level multihead — speed/accuracy balance"},
+    "mbp-c2-series": {"speed_bags_min": null, "weighing_heads": 24, "key_feature": "High-speed multihead — granular precision at scale"},
+    "mbp-c4-series": {"speed_bags_min": null, "weighing_heads": 32, "key_feature": "Top-range multihead — maximum throughput"},
+    "bora": {"speed_bags_min": 400, "format_range_mm": "50–300", "key_feature": "High-speed flow-wrap for biscuits/bakery"},
+    "falcon": {"speed_bags_min": 250, "format_range_mm": "80–400", "key_feature": "Versatile flow-wrap, wide product range"},
+    "ghibli": {"speed_bags_min": 300, "format_range_mm": "80–350", "key_feature": "Continuous motion — consistent sealing quality"},
+    "levante": {"speed_bags_min": 200, "format_range_mm": "100–500", "key_feature": "Large format flow-wrap for bulky products"},
+    "mistral-ba": {"speed_bags_min": 150, "format_range_mm": "100–600", "key_feature": "Bakery-specific — bread, croissant, pastry"},
+    "mistral-bb": {"speed_bags_min": 150, "format_range_mm": "100–600", "key_feature": "Bakery variant with modified atmosphere option"},
+    "pearl": {"speed_bags_min": 180, "format_range_mm": "80–400", "key_feature": "Premium finish sealing for confectionery"},
+    "pulsar": {"speed_bags_min": 350, "format_range_mm": "50–250", "key_feature": "Very high-speed for small packs (biscuits, bars)"},
+    "scirocco": {"speed_bags_min": 200, "format_range_mm": "100–450", "key_feature": "Wet wipes and non-food specialist"},
+    "shamal": {"speed_bags_min": 180, "format_range_mm": "100–500", "key_feature": "Flexible flow-wrap for mixed product lines"},
+    "tornado-ld": {"speed_bags_min": 250, "format_range_mm": "80–350", "key_feature": "Long-dwell sealing for secure hermetic seal"},
+    "zephyr": {"speed_bags_min": 220, "format_range_mm": "100–400", "key_feature": "Compact flow-wrap for smaller production sites"},
+    "bg-2800-4800": {"speed_bags_min": 160, "format_range_mm": "200–800", "key_feature": "Large-format flow-wrap for meat/dairy blocks"},
+    "blizzard-cut-flow-wrap": {"speed_bags_min": 500, "format_range_mm": "30–150", "key_feature": "Ultra high-speed cut flow-wrap for hard candy"},
+    "blizzard-hard-candy": {"speed_bags_min": 600, "format_range_mm": "20–120", "key_feature": "World's fastest hard candy wrapping machine"},
+    "d-series": {"speed_bags_min": 60, "format_range_mm": "150–450", "key_feature": "Stand-up pouch machine — premium shelf presentation"},
+    "f-series": {"speed_bags_min": 40, "format_range_mm": "150–500", "key_feature": "Square bottom bag prestige — luxury/premium segment"}
+  }
+}

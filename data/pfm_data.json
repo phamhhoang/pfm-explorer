@@ -1,0 +1,2850 @@
+{
+  "applications": [
+    {
+      "slug": "bakery",
+      "name": "Bakery",
+      "url": "https://www.pfm.it/en/application/bakery/",
+      "intro": "PFM offers medium-size and large bakeries a range of machines that are flexible and can change format in a matter of minutes. They areeasy to sanitizeand use and do not require special maintenance operations; nevertheless, they guaranteeaesthetically perfect packageswith robust and safe seals.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "falcon",
+          "name": "Falcon",
+          "url": "https://www.pfm.it/en/machine/falcon/"
+        },
+        {
+          "slug": "ghibli",
+          "name": "Ghibli",
+          "url": "https://www.pfm.it/en/machine/ghibli/"
+        },
+        {
+          "slug": "levante",
+          "name": "Levante",
+          "url": "https://www.pfm.it/en/machine/levante/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mbp-c4-series",
+          "name": "Mbp C4 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c4-series/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "pulsar",
+          "name": "Pulsar",
+          "url": "https://www.pfm.it/en/machine/pulsar/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "beverages",
+      "name": "Beverages",
+      "url": "https://www.pfm.it/en/application/beverages/",
+      "intro": "PFM offers beverage producers a range ofstand-up pouch packaging machinesdesigned to ensureprecise package controlandreliable sealingfor liquid products. Easy to operate and maintain, PFM solutions allowfast format changeswhile delivering lightweight, resistant and aesthetically appealing packages that guaranteeproduct protection and transport safety.",
+      "machines": [
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "chocolate-confectionery",
+      "name": "Chocolate & Confectionery",
+      "url": "https://www.pfm.it/en/application/chocolate-confectionery/",
+      "intro": "PFM offers chocolate and confectionery producers awide range of automatic and robotized packaging solutionsdesigned forhigh-speed productionand maximum efficiency. Easy to integrate and operate, PFM machines ensurefast format changes, gentle product handling andconsistent packaging qualitywith reliable sealing and aesthetically perfect packages.",
+      "machines": [
+        {
+          "slug": "levante",
+          "name": "Levante",
+          "url": "https://www.pfm.it/en/machine/levante/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "coffee",
+      "name": "Coffee",
+      "url": "https://www.pfm.it/en/application/coffee/",
+      "intro": "PFM offers coffee producers acomplete range of flexible packaging machinesdesigned to preservearoma, freshness and product qualitythroughout the supply chain. Easy to operate and highly flexible, PFM solutions allowfast format changeswhile ensuringreliable sealingand consistent packaging performance.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "falcon",
+          "name": "Falcon",
+          "url": "https://www.pfm.it/en/machine/falcon/"
+        },
+        {
+          "slug": "levante",
+          "name": "Levante",
+          "url": "https://www.pfm.it/en/machine/levante/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "cut-bread",
+      "name": "BreadCutting &",
+      "url": "https://www.pfm.it/en/application/cut-bread/",
+      "intro": "Brevetti Gasparin, part of PFM Group, offers advancedcutting and packaging solutionsdesigned to ensureprecise slicingand efficient handling of bakery products. Easy to integrate into existing lines, these systems guaranteeuniform cutting, gentle product handling andreliable packaging performancefor consistent product quality.",
+      "machines": [],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "dairy",
+      "name": "Dairy",
+      "url": "https://www.pfm.it/en/application/dairy/",
+      "intro": "PFM offers cheese producers acomplete range of flexible packaging machinesdesigned to handle fresh, aged and processed cheese products withmaximum efficiency. Our solutions areeasy to sanitize, reliable in dairy environments and capable offast format changeswhile ensuringoptimal product protectionwith strong, consistent seals.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "bg-2800-4800",
+          "name": "Bg 2800 4800",
+          "url": "https://www.pfm.it/en/machine/bg-2800-4800/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "ghibli",
+          "name": "Ghibli",
+          "url": "https://www.pfm.it/en/machine/ghibli/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "polar",
+          "name": "Polar",
+          "url": "https://www.pfm.it/en/machine/polar/"
+        },
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "scirocco-combi",
+          "name": "Scirocco Combi",
+          "url": "https://www.pfm.it/en/machine/scirocco-combi/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "sirio",
+          "name": "Sirio",
+          "url": "https://www.pfm.it/en/machine/sirio/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "vetta",
+          "name": "Vetta",
+          "url": "https://www.pfm.it/en/machine/vetta/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "detergents",
+      "name": "Detergents",
+      "url": "https://www.pfm.it/en/application/detergents/",
+      "intro": "PFM offers detergent manufacturers awide range of flexible packaging solutionsdesigned to handle powders, liquids, tablets and pods withprecision and reliability. Easy to operate and highly versatile, PFM machines ensureefficient production,strong and secure sealingand attractive packaging formats adapted to different dosing requirements.",
+      "machines": [
+        {
+          "slug": "falcon",
+          "name": "Falcon",
+          "url": "https://www.pfm.it/en/machine/falcon/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "fine-granulates",
+      "name": "Fine Granulates",
+      "url": "https://www.pfm.it/en/application/fine-granulates/",
+      "intro": "PFM offerscustomized solutionsfor feeding, weighing and packaging fine granulates, ensuringhigh accuracyandreliable production performance. Designed for flexibility and efficiency, PFM machines allowprecise dosing,fast format changesandconsistent packaging quality.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "compact",
+          "name": "Compact",
+          "url": "https://www.pfm.it/en/machine/compact/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mbp-c3-series",
+          "name": "Mbp C3 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c3-series/"
+        },
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "fish",
+      "name": "Fish",
+      "url": "https://www.pfm.it/en/application/fish/",
+      "intro": "PFM offers fish producers acomplete range of flexible packaging solutionsdesigned to preservefreshness, product quality and shelf life. Easy to operate and highly reliable, PFM machines ensuregentle product handling,airtight packagingand consistent sealing performance.",
+      "machines": [
+        {
+          "slug": "ghibli",
+          "name": "Ghibli",
+          "url": "https://www.pfm.it/en/machine/ghibli/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "vetta",
+          "name": "Vetta",
+          "url": "https://www.pfm.it/en/machine/vetta/"
+        },
+        {
+          "slug": "pulsar",
+          "name": "Pulsar",
+          "url": "https://www.pfm.it/en/machine/pulsar/"
+        },
+        {
+          "slug": "bg-2800-4800",
+          "name": "Bg 2800 4800",
+          "url": "https://www.pfm.it/en/machine/bg-2800-4800/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "scirocco-combi",
+          "name": "Scirocco Combi",
+          "url": "https://www.pfm.it/en/machine/scirocco-combi/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "frozen-foods",
+      "name": "Frozen Foods",
+      "url": "https://www.pfm.it/en/application/frozen-foods/",
+      "intro": "PFM offers frozen food producers acomplete range of flexible packaging machinesdesigned to operate reliably inlow temperature environmentswhile preservingproduct quality and appearance. Easy to clean and highly efficient, PFM solutions ensurehigh speed production, consistent sealing performance and reliable packaging for frozen and deep frozen products.",
+      "machines": [
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "polar",
+          "name": "Polar",
+          "url": "https://www.pfm.it/en/machine/polar/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "compact",
+          "name": "Compact",
+          "url": "https://www.pfm.it/en/machine/compact/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "ghibli",
+          "name": "Ghibli",
+          "url": "https://www.pfm.it/en/machine/ghibli/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "fruit",
+      "name": "Fruit & Vegetables",
+      "url": "https://www.pfm.it/en/application/fruit/",
+      "intro": "PFM offersflexible packaging solutionsfor fruit and vegetable producers designed to handle products withdifferent sizes, shapes and levels of delicacy. Easy to sanitize and highly adaptable, PFM machines ensuregentle product handling, efficient production andreliable sealing performancewith aesthetically appealing packages.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "falcon",
+          "name": "Falcon",
+          "url": "https://www.pfm.it/en/machine/falcon/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mbp-c4-series",
+          "name": "Mbp C4 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c4-series/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "pulsar",
+          "name": "Pulsar",
+          "url": "https://www.pfm.it/en/machine/pulsar/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "meat-sausages",
+      "name": "Meat",
+      "url": "https://www.pfm.it/en/application/meat-sausages/",
+      "intro": "PFM offers meat producers acomplete range of flexible packaging machinesdesigned to ensurehygienic processing,reliable sealingandhigh production efficiency. Easy to sanitize and highly flexible, PFM solutions allowfast format changeswhile delivering airtight, aesthetically appealing packages.",
+      "machines": [
+        {
+          "slug": "bg-2800-4800",
+          "name": "Bg 2800 4800",
+          "url": "https://www.pfm.it/en/machine/bg-2800-4800/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "ghibli",
+          "name": "Ghibli",
+          "url": "https://www.pfm.it/en/machine/ghibli/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "pulsar",
+          "name": "Pulsar",
+          "url": "https://www.pfm.it/en/machine/pulsar/"
+        },
+        {
+          "slug": "pv320-high-speed",
+          "name": "Pv320 High Speed",
+          "url": "https://www.pfm.it/en/machine/pv320-high-speed/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "scirocco-combi",
+          "name": "Scirocco Combi",
+          "url": "https://www.pfm.it/en/machine/scirocco-combi/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "vetta",
+          "name": "Vetta",
+          "url": "https://www.pfm.it/en/machine/vetta/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "pasta",
+      "name": "Pasta",
+      "url": "https://www.pfm.it/en/application/pasta/",
+      "intro": "PFM offers pasta producers acomplete range of flexible packaging solutionsdesigned to ensureprecise handlingandreliable sealingfor both dry and fresh pasta products. Easy to operate and highly flexible, PFM machines enablefast format changeswhile deliveringconsistent qualityand production efficiency.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mbp-c3-series",
+          "name": "Mbp C3 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c3-series/"
+        },
+        {
+          "slug": "mbp-c4-series",
+          "name": "Mbp C4 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c4-series/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "vetta",
+          "name": "Vetta",
+          "url": "https://www.pfm.it/en/machine/vetta/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "pet-food",
+      "name": "Pet Food",
+      "url": "https://www.pfm.it/en/application/pet-food/",
+      "intro": "PFM offers pet food manufacturers acomplete range of flexible packaging solutionsdesigned to handle dry, wet and semi moist products withprecision and reliability. Easy to operate and highly versatile, PFM machines ensureaccurate dosing,strong sealing performanceand aesthetically appealing packages.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "pharma",
+      "name": "Pharma",
+      "url": "https://www.pfm.it/en/application/pharma/",
+      "intro": "PFM offers pharmaceutical manufacturers acomplete range of flexible packaging solutionsdesigned to ensureproduct protection,process reliabilityandconsistent sealing performance. Easy to integrate into controlled production environments, PFM machines enableprecise handlingandhigh quality packaging.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "bora",
+          "name": "Bora",
+          "url": "https://www.pfm.it/en/machine/bora/"
+        },
+        {
+          "slug": "falcon",
+          "name": "Falcon",
+          "url": "https://www.pfm.it/en/machine/falcon/"
+        },
+        {
+          "slug": "levante",
+          "name": "Levante",
+          "url": "https://www.pfm.it/en/machine/levante/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "pearl",
+          "name": "Pearl",
+          "url": "https://www.pfm.it/en/machine/pearl/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "tornado-ld",
+          "name": "Tornado Ld",
+          "url": "https://www.pfm.it/en/machine/tornado-ld/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        },
+        {
+          "slug": "zephyr",
+          "name": "Zephyr",
+          "url": "https://www.pfm.it/en/machine/zephyr/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "powders",
+      "name": "Powders",
+      "url": "https://www.pfm.it/en/application/powders/",
+      "intro": "PFM offerscustomized solutionsfor feeding, weighing and packaging powder products, ensuringprecise dosingandreliable production performance. Designed for flexibility and efficiency, PFM machines enablefast format changeswhile deliveringrobust, airtight packages.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "compact",
+          "name": "Compact",
+          "url": "https://www.pfm.it/en/machine/compact/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "snacks",
+      "name": "Snacks",
+      "url": "https://www.pfm.it/en/application/snacks/",
+      "intro": "PFM offers snack producers acomplete range of flexible packaging solutionsdesigned to ensuregentle product handlingandhigh production efficiency. Easy to operate and highly flexible, PFM machines enablefast format changeswhile deliveringreliable sealingand consistent product protection.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "azimuth-evo-inclined-version",
+          "name": "Azimuth Evo Inclined Version",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "compact",
+          "name": "Compact",
+          "url": "https://www.pfm.it/en/machine/compact/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "r-700-twin",
+          "name": "R 700 Twin",
+          "url": "https://www.pfm.it/en/machine/r-700-twin/"
+        },
+        {
+          "slug": "rc-700",
+          "name": "Rc 700",
+          "url": "https://www.pfm.it/en/machine/rc-700/"
+        },
+        {
+          "slug": "rq-700",
+          "name": "Rq 700",
+          "url": "https://www.pfm.it/en/machine/rq-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "sweets",
+      "name": "Sweets",
+      "url": "https://www.pfm.it/en/application/sweets/",
+      "intro": "PFM offers confectionery producers acomplete range of flexible packaging solutionsdesigned to ensurehigh speed productionandprecise product handling. Easy to operate and highly adaptable, PFM machines enablefast format changeswhile deliveringconsistent packaging quality.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "blizzard-cut-flow-wrap",
+          "name": "Blizzard Cut Flow Wrap",
+          "url": "https://www.pfm.it/en/machine/blizzard-cut-flow-wrap/"
+        },
+        {
+          "slug": "blizzard-hard-candy",
+          "name": "Blizzard Hard Candy",
+          "url": "https://www.pfm.it/en/machine/blizzard-hard-candy/"
+        },
+        {
+          "slug": "comet",
+          "name": "Comet",
+          "url": "https://www.pfm.it/en/machine/comet/"
+        },
+        {
+          "slug": "mbp-c1-series",
+          "name": "Mbp C1 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c1-series/"
+        },
+        {
+          "slug": "mbp-c2-series",
+          "name": "Mbp C2 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c2-series/"
+        },
+        {
+          "slug": "mbp-c3-series",
+          "name": "Mbp C3 Series",
+          "url": "https://www.pfm.it/en/machine/mbp-c3-series/"
+        },
+        {
+          "slug": "r-700",
+          "name": "R 700",
+          "url": "https://www.pfm.it/en/machine/r-700/"
+        },
+        {
+          "slug": "rx800",
+          "name": "Rx800",
+          "url": "https://www.pfm.it/en/machine/rx800/"
+        },
+        {
+          "slug": "solaris-evo",
+          "name": "Solaris Evo",
+          "url": "https://www.pfm.it/en/machine/solaris-evo/"
+        },
+        {
+          "slug": "zenith",
+          "name": "Zenith",
+          "url": "https://www.pfm.it/en/machine/zenith/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    },
+    {
+      "slug": "wet-wipes",
+      "name": "Wet Wipes",
+      "url": "https://www.pfm.it/en/application/wet-wipes/",
+      "intro": "PFM offersdedicated packaging solutions for wet wipesdesigned to ensurehygienic processing,reliable sealingandconsistent product protection. Easy to operate and highly flexible, PFM machines enableefficient productionof single packs and multi pack formats while maintaining product moisture and package integrity.",
+      "machines": [
+        {
+          "slug": "azimuth-evo",
+          "name": "Azimuth Evo",
+          "url": "https://www.pfm.it/en/machine/azimuth-evo/"
+        },
+        {
+          "slug": "mistral-ba",
+          "name": "Mistral Ba",
+          "url": "https://www.pfm.it/en/machine/mistral-ba/"
+        },
+        {
+          "slug": "mistral-bb",
+          "name": "Mistral Bb",
+          "url": "https://www.pfm.it/en/machine/mistral-bb/"
+        },
+        {
+          "slug": "scirocco",
+          "name": "Scirocco",
+          "url": "https://www.pfm.it/en/machine/scirocco/"
+        },
+        {
+          "slug": "shamal",
+          "name": "Shamal",
+          "url": "https://www.pfm.it/en/machine/shamal/"
+        }
+      ],
+      "pack_styles": [
+        {
+          "slug": "block-bottom-bags",
+          "name": "Block Bottom Bags",
+          "url": "https://www.pfm.it/en/packstyle/block-bottom-bags/"
+        },
+        {
+          "slug": "prestige-block-bottom-bag",
+          "name": "Prestige Block Bottom",
+          "url": "https://www.pfm.it/en/packstyle/prestige-block-bottom-bag/"
+        },
+        {
+          "slug": "flex-can",
+          "name": "Flex-Can",
+          "url": "https://www.pfm.it/en/packstyle/flex-can/"
+        },
+        {
+          "slug": "stand-up-pouch",
+          "name": "Stand-Up Pouch",
+          "url": "https://www.pfm.it/en/packstyle/stand-up-pouch/"
+        },
+        {
+          "slug": "steelo-bag",
+          "name": "Steelo Bag",
+          "url": "https://www.pfm.it/en/packstyle/steelo-bag/"
+        },
+        {
+          "slug": "standard-pillow-bags-horizontal",
+          "name": "Standard Pillow Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bags-horizontal/"
+        },
+        {
+          "slug": "standard-pillow-bag-vertical",
+          "name": "Standard Pillow Bag – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/standard-pillow-bag-vertical/"
+        },
+        {
+          "slug": "gusseted-bags-horizontal",
+          "name": "Gusseted Bags – Horizontal",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-horizontal/"
+        },
+        {
+          "slug": "gusseted-bags-vertical",
+          "name": "Gusseted Bags – Vertical",
+          "url": "https://www.pfm.it/en/packstyle/gusseted-bags-vertical/"
+        },
+        {
+          "slug": "pocket-bag",
+          "name": "Pocket Bag",
+          "url": "https://www.pfm.it/en/packstyle/pocket-bag/"
+        },
+        {
+          "slug": "three-side-seals-bags",
+          "name": "Three Side Seal Bags",
+          "url": "https://www.pfm.it/en/packstyle/three-side-seals-bags/"
+        },
+        {
+          "slug": "reclosable-bags",
+          "name": "Reclosable Bags",
+          "url": "https://www.pfm.it/en/packstyle/reclosable-bags/"
+        }
+      ]
+    }
+  ],
+  "machines": {
+    "azimuth-evo": {
+      "slug": "azimuth-evo",
+      "name": "Azimuth Evo",
+      "url": "https://www.pfm.it/en/machine/azimuth-evo/",
+      "description": "The PFM AZIMUTH EVO is a full-servo vertical form fill seal wrapper that produces pillow pack bags and Steelo Bags (block bottom with 4 side sealed corners) starting from a flat reel of heat-sealable packaging material.",
+      "family": "VFFS"
+    },
+    "azimuth-evo-inclined-version": {
+      "slug": "azimuth-evo-inclined-version",
+      "name": "Azimuth Evo Inclined Version",
+      "url": "https://www.pfm.it/en/machine/azimuth-evo-inclined-version/",
+      "description": "The PFM AZIMUTH EVO Inclined is a full-servo vertical form fill seal wrapper that produces pillow pack bags and Steelo Bags (block bottom with 4 side sealed corners) it is designed for fragile and delicate products requiring controlled handling during vertical packaging.",
+      "family": "VFFS"
+    },
+    "bg-2800-4800": {
+      "slug": "bg-2800-4800",
+      "name": "Bg 2800 4800",
+      "url": "https://www.pfm.it/en/machine/bg-2800-4800/",
+      "description": "Designed for High Speed packaging, in MAP as well, with completely air tight seals, compact, smooth, free from product wrinkles and of the highest quality for when the package appearance is of the highest importance.",
+      "family": "VFFS"
+    },
+    "blizzard-cut-flow-wrap": {
+      "slug": "blizzard-cut-flow-wrap",
+      "name": "Blizzard Cut Flow Wrap",
+      "url": "https://www.pfm.it/en/machine/blizzard-cut-flow-wrap/",
+      "description": "Blizzard is the High Speed Pillow Pack packaging machine to make closed packs with three seals starting from a flat reel of hot or cold seal wrapping material.",
+      "family": "VFFS"
+    },
+    "blizzard-hard-candy": {
+      "slug": "blizzard-hard-candy",
+      "name": "Blizzard Hard Candy",
+      "url": "https://www.pfm.it/en/machine/blizzard-hard-candy/",
+      "description": "The Blizzard Hard Candy is an horizontal flow pack wrapping machine to produce 3-seal packs starting from a reel of heat or cold-seal film.",
+      "family": "VFFS"
+    },
+    "bora": {
+      "slug": "bora",
+      "name": "Bora",
+      "url": "https://www.pfm.it/en/machine/bora/",
+      "description": "Full servo horizontal wrapping machine to make pillow-pack bags from a flat reel of wrapping material.",
+      "family": "VFFS"
+    },
+    "comet": {
+      "slug": "comet",
+      "name": "Comet",
+      "url": "https://www.pfm.it/en/machine/comet/",
+      "description": "The PFM COMET is a continuous motion vertical form fill seal machine designed for high-speed wrapping of granular products with hermetic sealing performance: chips/crisps, candies and many others combined with multihead weighers and volumetric dosing systems.",
+      "family": "VFFS"
+    },
+    "compact": {
+      "slug": "compact",
+      "name": "Compact",
+      "url": "https://www.pfm.it/en/machine/compact/",
+      "description": "The Compact is the revolutionary horizontal packing machine for producing triple-seal, square bottom and gusseted flow-packs.",
+      "family": "VFFS"
+    },
+    "falcon": {
+      "slug": "falcon",
+      "name": "Falcon",
+      "url": "https://www.pfm.it/en/machine/falcon/",
+      "description": "The PFM Falcon is a horizontal flow wrapper able to produce bags sealed on three sides from an open roll of hot or cold sealable material.",
+      "family": "VFFS"
+    },
+    "ghibli": {
+      "slug": "ghibli",
+      "name": "Ghibli",
+      "url": "https://www.pfm.it/en/machine/ghibli/",
+      "description": "Flow wrapper designed to wrap large-sized food products, ensuring stability, control, and production continuity even in the most demanding applications.",
+      "family": "VFFS"
+    },
+    "levante": {
+      "slug": "levante",
+      "name": "Levante",
+      "url": "https://www.pfm.it/en/machine/levante/",
+      "description": "The PFM Levante is a high-speed horizontal flow wrapper designed to produce pillow-pack bags from an open roll of hot or cold sealable material, combining speed, control and reliability for continuous, high-performance production.",
+      "family": "VFFS"
+    },
+    "mbp-c1-series": {
+      "slug": "mbp-c1-series",
+      "name": "Mbp C1 Series",
+      "url": "https://www.pfm.it/en/machine/mbp-c1-series/",
+      "description": "Entry-level budget combination multi-head weigher, withoutstanding speed/accuracyratio.",
+      "family": "VFFS"
+    },
+    "mbp-c2-series": {
+      "slug": "mbp-c2-series",
+      "name": "Mbp C2 Series",
+      "url": "https://www.pfm.it/en/machine/mbp-c2-series/",
+      "description": "100% made in Italy, the Series C2 represents thevery best in high-tech multi-head weighers.",
+      "family": "VFFS"
+    },
+    "mbp-c3-series": {
+      "slug": "mbp-c3-series",
+      "name": "Mbp C3 Series",
+      "url": "https://www.pfm.it/en/machine/mbp-c3-series/",
+      "description": "To achieve a precision of 0,1-0,8 grams on the weighing average, we reduced the mass and volume of the buckets to 1 lt and provided it with a single opening. The load cell is sized according to the range of the weight target, which is lower than in the C2. The C3 is available with 10-14-16-20-24-32 heads and their respective DMAs versions. It is the best choice also for mixed products, from 2 to 4 flavors.",
+      "family": "VFFS"
+    },
+    "mbp-c4-series": {
+      "slug": "mbp-c4-series",
+      "name": "Mbp C4 Series",
+      "url": "https://www.pfm.it/en/machine/mbp-c4-series/",
+      "description": "MBP Multihead Weighers presents the new range of Series C4 multihead weighers, which are successfully launching the company into the high speed precision weighing sector for fragile and delicate products.",
+      "family": "VFFS"
+    },
+    "mistral-ba": {
+      "slug": "mistral-ba",
+      "name": "Mistral Ba",
+      "url": "https://www.pfm.it/en/machine/mistral-ba/",
+      "description": "A flow-wrap packaging machine which produces packs sealed on three sides from a roll of heat-sealable packaging film, the Mistral is designed for high-speed MAP packaging.",
+      "family": "VFFS"
+    },
+    "mistral-bb": {
+      "slug": "mistral-bb",
+      "name": "Mistral Bb",
+      "url": "https://www.pfm.it/en/machine/mistral-bb/",
+      "description": "Designed for high-speed MAP packaging, Mistral combines packaging speed with hermetic sealing.",
+      "family": "VFFS"
+    },
+    "pearl": {
+      "slug": "pearl",
+      "name": "Pearl",
+      "url": "https://www.pfm.it/en/machine/pearl/",
+      "description": "Full servo horizontal pillow-pack wrapper to obtain pillow-pack style packs from a flat reel of heat/cold sealable wrapping material.",
+      "family": "VFFS"
+    },
+    "polar": {
+      "slug": "polar",
+      "name": "Polar",
+      "url": "https://www.pfm.it/en/machine/polar/",
+      "description": "The PFM POLAR is a vertical form fill seal machine specifically designed for dairy products and high-hygiene environments. It produces pillow packs and packs with clip from a reel of heat-sealable wrapping material.",
+      "family": "VFFS"
+    },
+    "pulsar": {
+      "slug": "pulsar",
+      "name": "Pulsar",
+      "url": "https://www.pfm.it/en/machine/pulsar/",
+      "description": "Designed to wrap products of varying size and shape, thanks to the LVA feature, ensuring consistent packaging quality and smooth operation even with non-uniform formats.",
+      "family": "VFFS"
+    },
+    "pv320-high-speed": {
+      "slug": "pv320-high-speed",
+      "name": "Pv320 High Speed",
+      "url": "https://www.pfm.it/en/machine/pv320-high-speed/",
+      "description": "The PFM PV320 High Speed is a continuous motion vertical form fill seal machine designed for high-speed wrapping og granular products with hermetic sealing performance.",
+      "family": "VFFS"
+    },
+    "r-700": {
+      "slug": "r-700",
+      "name": "R 700",
+      "url": "https://www.pfm.it/en/machine/r-700/",
+      "description": "The R700 is avertical form fill and seal packaging machinefor the production of bags sealed on three sides, such as pillow-bags, as well as block bottom bags and/or block bottom bags with 4 corner seals.",
+      "family": "VFFS"
+    },
+    "r-700-twin": {
+      "slug": "r-700-twin",
+      "name": "R 700 Twin",
+      "url": "https://www.pfm.it/en/machine/r-700-twin/",
+      "description": "R-Series’ technology guarantees top performance and smaller overall dimensions. The TWIN configuration allows double production using one MBP multi-head weigher, even in small places.",
+      "family": "VFFS"
+    },
+    "rc-700": {
+      "slug": "rc-700",
+      "name": "Rc 700",
+      "url": "https://www.pfm.it/en/machine/rc-700/",
+      "description": "RC700/800 is a continuous motion VFFS machine with Box-Motion top produce pillow bags, square bottom bags and Steelo Bags. RC700/800 is equipped with one or two reel-holder shafts and the sealing unit inside the calender for Pillow-Packs and Steelo-Bags.Speed: up to 180 Pillow Bags per minute and up to 100 Steelo Bags per minute.",
+      "family": "VFFS"
+    },
+    "rq-700": {
+      "slug": "rq-700",
+      "name": "Rq 700",
+      "url": "https://www.pfm.it/en/machine/rq-700/",
+      "description": "Intermittent, Single-reel Vertical Form Fill Seal with removable sealing unit. Sealing pressure in kg adjustable from the monitor.",
+      "family": "VFFS"
+    },
+    "rx800": {
+      "slug": "rx800",
+      "name": "Rx800",
+      "url": "https://www.pfm.it/en/machine/rx800/",
+      "description": "The synthesis of operational simplicity, high productivity and very low running costs.",
+      "family": "VFFS"
+    },
+    "scirocco": {
+      "slug": "scirocco",
+      "name": "Scirocco",
+      "url": "https://www.pfm.it/en/machine/scirocco/",
+      "description": "Scirocco is a flow-pack servo assisted horizontal wrapping machine for producing wraps hermetically sealed on three sides from a reel of heat-sealed wrapping material.",
+      "family": "VFFS"
+    },
+    "scirocco-combi": {
+      "slug": "scirocco-combi",
+      "name": "Scirocco Combi",
+      "url": "https://www.pfm.it/en/machine/scirocco-combi/",
+      "description": "Designed for advanced 3-side seal packaging, Scirocco Combi integrates reclosable solutions such as zip, folded hem or label, ensuring product protection, usability after opening and consistent packaging performance.",
+      "family": "VFFS"
+    },
+    "shamal": {
+      "slug": "shamal",
+      "name": "Shamal",
+      "url": "https://www.pfm.it/en/machine/shamal/",
+      "description": "Servo controlled horizontal flow wrapper that produces pillow packs with three air tight seals.",
+      "family": "VFFS"
+    },
+    "sirio": {
+      "slug": "sirio",
+      "name": "Sirio",
+      "url": "https://www.pfm.it/en/machine/sirio/",
+      "description": "The PFM Sirio is a full servo controlled machine specifically designed for the dairy sector, able to produce pillow bags while ensuring hygienic operation and reliable performance.",
+      "family": "VFFS"
+    },
+    "solaris-evo": {
+      "slug": "solaris-evo",
+      "name": "Solaris Evo",
+      "url": "https://www.pfm.it/en/machine/solaris-evo/",
+      "description": "The Solaris EVO is th high speed continuous motion vertical form fill and seal wrapper that produces 3-side sealed pillow-bags, block-bottom and Steelo- bags, doy-style bags also with zip and eurohole.",
+      "family": "VFFS"
+    },
+    "tornado-ld": {
+      "slug": "tornado-ld",
+      "name": "Tornado Ld",
+      "url": "https://www.pfm.it/en/machine/tornado-ld/",
+      "description": "The Tornado LD is a horizontal flowrapping machine that produces up to 100 packs/min with hermetic seals from a flat reel of heat seal wrapping material.",
+      "family": "VFFS"
+    },
+    "vetta": {
+      "slug": "vetta",
+      "name": "Vetta",
+      "url": "https://www.pfm.it/en/machine/vetta/",
+      "description": "The PFM VETTA is a vertical form fill seal system designed to produce a wide range of packaging formats within a single machine architecture. Vetta can offer up to 30 different bag styles, from standard vertical form fill and seal using clear or printed film, to stand-up oval bottom bags with sombrero hole punch.",
+      "family": "VFFS"
+    },
+    "zenith": {
+      "slug": "zenith",
+      "name": "Zenith",
+      "url": "https://www.pfm.it/en/machine/zenith/",
+      "description": "The PFM ZENITH is a vertical form fill seal machine designed for granular products (chips/crisps, candies and many others), combining dosing systems and wrapping into a stable and easy-to-manage process.",
+      "family": "VFFS"
+    },
+    "zephyr": {
+      "slug": "zephyr",
+      "name": "Zephyr",
+      "url": "https://www.pfm.it/en/machine/zephyr/",
+      "description": "High speed wrapper designed with cantilevered main frame and vertical plate for complete separation product/drive elements to run on multi-shift operations.",
+      "family": "VFFS"
+    }
+  }
+}
